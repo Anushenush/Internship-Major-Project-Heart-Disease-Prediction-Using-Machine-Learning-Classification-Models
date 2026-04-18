@@ -42,6 +42,7 @@ ST Depression
 Thalassemia
 
 🧠 Machine Learning Pipeline
+
 🔹 1. Data Understanding & Cleaning
 Handle missing values
 Encode categorical variables
